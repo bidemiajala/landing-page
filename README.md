@@ -6,3 +6,5 @@
   - Added active state to nav items
   - Added smooth scrolling
   - Nav is dynamic. As you add sections, items are added to the nav
+
+  Hosted site - https://app.netlify.com/sites/nervous-agnesi-a3a2f3/overview
