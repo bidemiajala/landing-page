@@ -1,9 +1,8 @@
-# Landing Page Project
+# Udacity FEND Project 2: Landing Page
 
-## Table of Contents
 
-* [Instructions](#instructions)
-
-## Instructions
-
-This is the start of my readme
+## Features
+  - Added a 'back to top' button that scrolls the user to the start of the page once clicked
+  - Added active state to nav items
+  - Added smooth scrolling
+  - Nav is dynamic. As you add sections, items are added to the nav
